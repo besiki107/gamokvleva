@@ -95,6 +95,36 @@
   </tr>
 </table>
 
+<h5>დაკვირვების პერიოდი</h5>
+
+<table class="table table-bordered" style="width:100%">
+  <tr>
+    <td rowspan="5">2022 წელი
+      <br>
+      <br>
+      <br>
+გთხოვთ  მონიშნოთ
+<br> შესაბამისი კვარტლის წინ არსებული უჯრა
+</td>
+  </tr>
+  <tr>
+    <td><input class="form-check-input" type="checkbox" value="" id="flexCheckDefault"></td>
+    <td>I  კვარტალი</td>
+  </tr>
+  <tr>
+    <td><input class="form-check-input" type="checkbox" value="" id="flexCheckDefault"></td>
+    <td>II  კვარტალი</td>
+  </tr>
+  <tr>
+    <td><input class="form-check-input" type="checkbox" value="" id="flexCheckDefault"></td>
+    <td>III  კვარტალი</td>
+  </tr>
+  <tr>
+    <td><input class="form-check-input" type="checkbox" value="" id="flexCheckDefault"></td>
+    <td>IV  კვარტალი</td>
+  </tr>
+</table>
+
 
 
 
@@ -134,9 +164,362 @@
 
 <h2>ნაწილი III. მონაცემები პროდუქციის შენახვასთან დაკავშირებით (შენიშვნა: 3.3-3.4 კითხვები ეხება მომსახურების სახით შენახულ პროდუქტებს (3.2.3 კითხვით განსაზღვრული)</h2>
 
+<table class="table table-bordered" style="width:100%">
+  <tr>
+    <td rowspan="2">
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      3.1 პროდუქტი<nobr></td>
+    <td colspan="3">3.2. <br> ელევატორში შენახული პროდუქტების რაოდენობა (ტონა)</td>
+    <td rowspan="2">3.3. <br> მომსახურების საშუალო <br>დღიური ფასი (ლარი/ტონა)(იგულისხმება დღიური გადასახადი 1 ტონა პროდუქტის შენახვისათვის)</td>
+    <td rowspan="2">3.4. <br> მომსახურების<br>საფასური, სულ (ლარი)</td>
+    <td rowspan="2">3.5. <br> დანაკარგი (%)(იგულისხმება პროდუქციის დაზიანების შედეგად მიღებული დანაკარგი; არ იგულისხმება პროდუქციის წონაში დაკლება)</td>
+  </tr>
+
+  <tr>
+    <th>3.2.1საკუთარიწარმოების</th>
+    <th>3.2.2შესყიდული<br>შემდგომი<br>რეალიზაციის<br>მიზნით</th>
+    <th>3.2.3მომსახურებისსახით</th>
+  </tr>
+
+  
+  <tr>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+  </tr>
+  <tr>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+  </tr>
+  <tr>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+  </tr>
+  <tr>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+
+  </tr>
+  <tr>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+
+  </tr>
+  <tr>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+
+  </tr>
+  <tr>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+
+  </tr>
+  <tr>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+
+  </tr>
+
+  
+</table>
+
+
+
 <h2>ნაწილი IV. ელევატორის საცავების საშუალო დღიური დატვირთვა თვეების მიხედვით, % (შენიშვნა: შეავსეთ შესაბამისი კვარტლის თვეები)</h2>
 
+<table class="table table-bordered" style="width:100%">
+  <tr>
+    <td></td>
+    <td>I თვე</td>
+    <td>II თვე</td>
+    <td>III თვე</td>
+  </tr>
+  <tr>
+    <td>სულ, % საცავების ჯამური ტევადობიდან</td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+  </tr>
+
+  <tr>
+  <td>პროდუქტი</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  </tr>
+  <tr>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+  </tr>
+  <tr>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+  </tr>
+  <tr>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+  </tr>
+  <tr>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+  </tr>
+  <tr>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+  </tr>
+  <tr>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+  </tr>
+  
+  
+  
+</table>
+
+
+
 <h2>ნაწილი V. მონაცემები გაყიდული პროდუქციის შესახებ</h2>
+
+
+
+<table class="table table-bordered" style="width:100%">
+  <tr>
+    <td rowspan="3">
+      <br>
+      <br>
+    #</td>
+    <td rowspan="3"><br>პროდუქტის <br>
+    დასახელება <br></td>
+    <th colspan="6">გაყიდული პროდუქცია</th>
+    <td rowspan="2", colspan="2">მათ შორის, გაყიდული 
+      <br> უცხოურ ბაზარზე</td>
+  </tr>
+  <tr>
+    <th colspan="2">იმპორტირებული</th>
+    <th colspan="2">ადგილობრივი <br>(შესყიდული)</th>
+    <th colspan="2">ადგილობრივი <br>(საკუთარი წარმოების)</th>
+    <!-- <td>ადგილობრივი (შესყიდული)</td>
+    <td>ადგილობრივი (საკუთარი წარმოების)</td> -->
+    
+  </tr>
+  <tr>
+    <td>რაოდენობა (ტონა)</td>
+    <td>ღირებულება (ლარი)</td>
+    <td>რაოდენობა (ტონა)</td>
+    <td>ღირებულება (ლარი)</td>
+    <td>რაოდენობა (ტონა)</td>
+    <td>ღირებულება (ლარი)</td>
+    <td>რაოდენობა (ტონა)</td>
+    <td>ღირებულება (ლარი)</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+    <td><input type="text" class="form-control" id="example" placeholder=""></td>
+  </tr>
+  
+</table>
+
+
+
+<table class="table table-bordered" style="width:100%">
+  <tr>
+    <td rowspan="5"><br>ინტერვიუს დაწყებისა და დასრულების დრო</td>
+  </tr>
+  <tr>
+    <td colspan="2">დაწყება</td>
+    <td colspan="2">დასრულება</td>
+  </tr>
+  <tr>
+    <td>საათი</td>
+    <td>წუთი</td>
+    <td>საათი</td>
+    <td>წუთი</td>
+  </tr>
+  <tr>
+  <td><input type="text" class="form-control" id="example" placeholder=""></td>
+  <td><input type="text" class="form-control" id="example" placeholder=""></td>
+  <td><input type="text" class="form-control" id="example" placeholder=""></td>
+  <td><input type="text" class="form-control" id="example" placeholder=""></td>
+  </tr>
+</table>
+
+
+<h3>გმადლობთ თანამშრომლობისათვის!</h3>
+
+
+
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8" crossorigin="anonymous"></script>
   </body>
 </html>
