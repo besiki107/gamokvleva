@@ -64,38 +64,38 @@
   </tr>
   <tr>
     <td>მუნიციპალიტეტი</td>
-    <th><input type="text" class="form-control" id="example" placeholder=""> </th>
+    <th><input type="text" class="form-control" id="munic" name="munic" placeholder=""> </th>
   </tr>
   <tr>
     <td>ქალაქი, დაბა, თემი</td>
-    <th><input type="text" class="form-control" id="example" placeholder=""> </th>
+    <th><input type="text" class="form-control" id="qalaqi" name="qalaqi" placeholder=""> </th>
   </tr>
   <tr>
     <td>სოფელი</td>
-    <th><input type="text" class="form-control" id="example" placeholder=""> </th>
+    <th><input type="text" class="form-control" id="sop" name="sop" placeholder=""> </th>
   </tr>
   <tr>
     <td>ქუჩა და სხვა მისამართი</td>
-    <th><input type="text" class="form-control" id="example" placeholder=""> </th>
+    <th><input type="text" class="form-control" id="qucha" name="qucha" placeholder=""> </th>
   </tr>
   <tr>
     <th>ფაქტიური მისამართი</th>
   </tr>
   <tr>
     <td>მუნიციპალიტეტი</td>
-    <th><input type="text" class="form-control" id="example" placeholder=""> </th>
+    <th><input type="text" class="form-control" id="fmunic" name="fmunic" placeholder=""> </th>
   </tr>
   <tr>
     <td>ქალაქი, დაბა, თემი</td>
-    <th><input type="text" class="form-control" id="example" placeholder=""> </th>
+    <th><input type="text" class="form-control" id="fqalaqi" name="fqalaqi" placeholder=""> </th>
   </tr>
   <tr>
     <td>სოფელი</td>
-    <th><input type="text" class="form-control" id="example" placeholder=""> </th>
+    <th><input type="text" class="form-control" id="fsop" name="fsop" placeholder=""> </th>
   </tr>
   <tr>
     <td>ქუჩა და სხვა მისამართი</td>
-    <th><input type="text" class="form-control" id="example" placeholder=""> </th>
+    <th><input type="text" class="form-control" id="fqucha" name="fqucha" placeholder=""> </th>
   </tr>
 </table>
 
@@ -137,7 +137,8 @@
 <h2>ნაწილი II. ზოგადი მაჩვენებელი</h2>
 <table class="table table-bordered" style="width:100%">
   <tr>
-    <td>ქუჩა და სხვა მისამართი</td>
+    <br>
+    <td>მაჩვენებლის დასახელება</td>
     <td>#</td>
     <td>რაოდენობა / მოცულობა</td>
     <td>კომენტარი</td>
